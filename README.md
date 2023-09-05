@@ -22,4 +22,4 @@ API REST, ou Arquitetura de Transferência de Estado Representacional, é um con
 
 Em resumo, uma API REST é uma abordagem padrão para a criação de serviços web que é simples, escalável e amplamente aceita na indústria de desenvolvimento de software.
 
-API de testes com Swagger Veja a <a href="/api-docs">documentação</a>.
+API de testes com Swagger Veja a <a href="https://swagger.io/docs/specification/about/">documentação</a>.
